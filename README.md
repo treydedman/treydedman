@@ -1,16 +1,15 @@
-## Hi there 👋
+![td-logo](https://github.com/user-attachments/assets/4689742a-9a9d-4e33-b621-8a5640d3bd4b)
 
-<!--
-**treydedman/treydedman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Trey and I enjoy building refined, functional and user-centric web applications.
 
-Here are some ideas to get you started:
+   ### :hammer_and_wrench: Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,tailwind,nodejs,express,postgres,aws,npm,vite,figma,vscode)](https://skillicons.dev)
+   ---
+
+### How to reach me: 
+
+[Email](mailto:treydedman@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/treydedman/)
+
